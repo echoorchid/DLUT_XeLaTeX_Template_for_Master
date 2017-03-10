@@ -1,0 +1,34 @@
+;; RefTeX parse info file
+;; File: /home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex
+;; User: fan (whufanwei)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/")
+
+(label-numbers)
+
+(bof "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex")
+
+(toc "toc" "  1 注意事项" "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex" nil 1 "1" "\\chapter{注意事项}" 62)
+
+("chap03" "s" "请直接双面打印PDF文件，空白页已经按要求留出。打印时，缩放页面的选项设 为“无”，否则页面会缩小。 参考文献的bib文件的条目的名称是不允许出现空格的。 \\section{存在的问题} " "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex" nil)
+
+(toc "toc" "    1.1 存在的问题" "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex" nil 2 "1.1" "\\section{存在的问题}" 173)
+
+(toc "toc" "    1.2 将来的工作" "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex" nil 2 "1.2" "\\section{将来的工作}" 320)
+
+(toc "toc" "    1.1 存在的问题" "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex" nil 2 "1.1" "\\section{存在的问题}" 173)
+
+(eof "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/body/chap03.tex")
+))
+

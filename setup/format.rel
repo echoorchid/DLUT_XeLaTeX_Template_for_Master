@@ -1,0 +1,28 @@
+;; RefTeX parse info file
+;; File: /home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/format.tex
+;; User: fan (whufanwei)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/")
+
+(label-numbers)
+
+(bof "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/format.tex")
+
+(toc "toc" "  * \\hfill 摘　　要 \\hfill" "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/format.tex" nil 1 "*" "\\chapter*{\\hfill 摘　　要 \\hfill}" 12768)
+
+(toc "toc" "  *  " "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/format.tex" nil 1 "*" "\\chapter*{}" 12975)
+
+(eof "/home/fan/下载/DLUT_XeLaTeX_Template_for_Maste/setup/format.tex")
+))
+
