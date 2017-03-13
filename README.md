@@ -33,10 +33,9 @@ dutfanwei(at)qq.com
 ### 获取模板
 
 #### 终端中克隆最新版
-···
-cd
+```
 git clone https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master.git
-···
+```
 
 
 
