@@ -22,24 +22,22 @@ dutfanwei(at)qq.com
 
 ### 如何使用
 
-#### CTeX 发行版
+#### CTeX 安装
 
-CTeX v2.9.2.164 
+> 推荐版本：CTeX v2.9.2.164
 
 #### 字体安装
 
-中英文分别依赖 Adobe 的四套简体中文字体。百度云盘：地址
+> 中英文分别依赖 Adobe 的四套简体中文字体。百度云盘：地址 拷贝到控制面板->字体即可。
 
 ### 获取模板
 
 #### 终端中克隆最新版
+···
+cd
+git clone https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master.git
+···
 
-    cd
-    git clone https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master.git
-
-如果之前有克隆过此模板但是想与 GitHub 上的最新版本同步，以`master`分支为例，执行以下命令更新到最新版。
-
-    git pull origin master
 
 
 
